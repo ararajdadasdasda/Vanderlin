@@ -66,6 +66,8 @@
 		TRAIT_PSYDONITE,
 		TRAIT_FOREIGNER,
 		TRAIT_RECOGNIZED,
+    TRAIT_SHARPER_BLADES,
+    TRAIT_MEDIUMARMOR,
 	)
 
 /datum/job/advclass/puritan/ordinator/after_spawn(mob/living/carbon/human/spawned, client/player_client)
