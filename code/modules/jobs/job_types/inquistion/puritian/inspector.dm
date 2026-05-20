@@ -55,7 +55,6 @@
 		TRAIT_PSYDONIAN_GRIT,
 		TRAIT_PSYDONITE,
 		TRAIT_FOREIGNER,
-		TRAIT_RECOGNIZED,
 	)
 
 	attribute_sheet = /datum/attribute_holder/sheet/job/inspector
